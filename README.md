@@ -1,4 +1,4 @@
-# Instant Browser [![Build Status](https://travis-ci.org/anthonycr/Instant-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Instant-Browser)
+# Instant Browser [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Instant-Browser)
 
 #### Speed, Simplicity, Security
 ![](ic_launcher_small.png)
@@ -62,6 +62,7 @@ alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/det
 #### License
 ```
 Copyright 2014 Anthony Restaino
+ViXiV Instant Search Copyright 2017 ViXiV Technologies
 
 Instant Browser
 
