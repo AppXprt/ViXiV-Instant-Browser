@@ -10,10 +10,10 @@
 alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=acr.browser.instant)
 
 #### Master Branch
-* [![Build Status](https://travis-ci.org/anthonycr/Instant-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Instant-Browser)
+* [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Instant-Browser)
 
 #### Dev Branch
-* [![Build Status](https://travis-ci.org/anthonycr/Instant-Browser.svg?branch=dev)](https://travis-ci.org/anthonycr/Instant-Browser)
+* [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=dev)](https://travis-ci.org/anthonycr/Instant-Browser)
 
 #### Features
 * Bookmarks
