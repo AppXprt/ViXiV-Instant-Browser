@@ -18,7 +18,7 @@ alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/det
 
 * History
 
-* Multiple search engines (Google, Bing, Yahoo, StartPage, DuckDuckGo, etc.)
+* Multiple search engines (ViXiV Instant, Google, Bing, Yahoo, StartPage, DuckDuckGo, etc.)
 
 * Incognito mode
 
