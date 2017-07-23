@@ -1,26 +1,24 @@
-# Instant Browser [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Instant-Browser)
+# Instant Browser [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser)
 
 #### Speed, Simplicity, Security
 ![](ic_launcher_small.png)
 
 #### Download
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/acr.browser.instant) [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=acr.browser.instant)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=net.vixiv.instant)
 
 #### Master Branch
-* [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Instant-Browser)
+* [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser)
 
 #### Dev Branch
-* [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=dev)](https://travis-ci.org/anthonycr/Instant-Browser)
+* [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=dev)](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser)
 
 #### Features
 * Bookmarks
 
 * History
 
-* Multiple search engines (Google, Bing, Yahoo, StartPage, DuckDuckGo, etc.)
+* Multiple search engines (ViXiV Instant, Google, Bing, Yahoo, StartPage, DuckDuckGo, etc.)
 
 * Incognito mode
 
