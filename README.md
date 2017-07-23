@@ -1,4 +1,4 @@
-# Instant Browser [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Instant-Browser)
+# Instant Browser [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser)
 
 #### Speed, Simplicity, Security
 ![](ic_launcher_small.png)
