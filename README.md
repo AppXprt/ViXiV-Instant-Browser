@@ -1,3 +1,7 @@
+If you use Instant Browser or Best Custom User-Agent Browser, you may want to make sure you have it on your device.
+
+I am pulling EVERYTHING from the Play Store on Friday 7/15/2022, because of Abuse by Google Play and Adsense / Admob.
+
 # Instant Browser [![Build Status](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser.svg?branch=master)](https://travis-ci.org/ViXiVTech/ViXiV-Instant-Browser)
 
 #### Speed, Simplicity, Security
